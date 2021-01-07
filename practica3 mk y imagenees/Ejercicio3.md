@@ -39,4 +39,4 @@
 13 Mostrad quien ha hecho cambios en el fichero windows2.txt
 
 
-![](parte%205.jpg)
+![](parte%206.jpg)
