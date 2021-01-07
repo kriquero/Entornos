@@ -34,4 +34,9 @@
 
 12 Commit de los cambios con el comentario "Añadidas versiones a windows2.txt"
 
+![](parte%204.jpg)
+
 13 Mostrad quien ha hecho cambios en el fichero windows2.txt
+
+
+![](parte%205.jpg)
